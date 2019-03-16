@@ -1,0 +1,27 @@
+{
+  "name": "express-first-app",
+  "version": "1.0.0",
+  "description": "Express training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanSeBestia/express-first-app.git"
+  },
+  "keywords": [
+    "express",
+    "auth",
+    "jwt",
+    "js",
+    "node",
+    "nodejs"
+  ],
+  "author": "JuanSeBEstia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanSeBestia/express-first-app/issues"
+  },
+  "homepage": "https://github.com/JuanSeBestia/express-first-app#readme"
+}
